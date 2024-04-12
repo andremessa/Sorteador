@@ -1,7 +1,7 @@
 <h1 align= center>Sorteador de Números</h1>
 
 <div align= center>
-<img src= "" width= "700px" >
+<img src= "/assets/Telas.png" width= "700px" >
 </div>
 
 <br>
